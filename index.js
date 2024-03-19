@@ -1,8 +1,4 @@
 // --------------- RETO 2 ---------------
-function suma (op1, op2) {
-        return op1 + op2;
-};
-
 function resta (op1, op2) {
     return op1 - op2;
 };
@@ -21,4 +17,4 @@ function cuadrado (op1) {
 };
 
 
-module.exports = {suma, resta, producto, division, cuadrado};
+module.exports = {resta, producto, division, cuadrado};
